@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="840"
+	maxImageHeight="587"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="CCCCCC"
+	textColor="FFFFFF"
+	thumbColumns="2"
+	thumbRows="1"
+	title="Rama Events-Birthday Party, 1982"
+	thumbPosition="BOTTOM"
+	frameWidth="1"
+	frameColor="000000"
+	indexPageName="index-party-event.html"
+
+>
+  <image imageURL="images/e-rama003-2.jpg"
+	thumbURL="thumbs/e-rama003-2.jpg"
+	linkURL="images/e-rama003-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama giving talk at his birthday party]]></caption>
+  </image>
+  <image imageURL="images/e-rama004-2.jpg"
+	thumbURL="thumbs/e-rama004-2.jpg"
+	linkURL="images/e-rama004-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama viewing his birthday cake]]></caption>
+  </image>
+</simpleviewergallery>

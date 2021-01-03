@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="840"
+	maxImageHeight="587"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="CCCCCC"
+	textColor="FFFFFF"
+	thumbColumns="7"
+	thumbRows="1"
+	title="Rama Events-Muir Woods, CA - 1982"
+	thumbPosition="BOTTOM"
+	frameWidth="1"
+	frameColor="000000"
+	indexPageName="index-muir-event.html"
+
+>
+  <image imageURL="images/m-rama001-2.jpg"
+	thumbURL="thumbs/m-rama001-2.jpg"
+	linkURL="images/m-rama001-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama with students at Muir Woods, Summer, 1982]]></caption>
+  </image>
+  <image imageURL="images/m-rama004-2.jpg"
+	thumbURL="thumbs/m-rama004-2.jpg"
+	linkURL="images/m-rama004-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama clowning around with students at Muir Woods]]></caption>
+  </image>
+  <image imageURL="images/m-rama005-2.jpg"
+	thumbURL="thumbs/m-rama005-2.jpg"
+	linkURL="images/m-rama005-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Muir Woods, 1982]]></caption>
+  </image>
+  <image imageURL="images/m-rama008-2.jpg"
+	thumbURL="thumbs/m-rama008-2.jpg"
+	linkURL="images/m-rama008-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama giving talk to students in Muir Woods]]></caption>
+  </image>
+  <image imageURL="images/m-rama009-2.jpg"
+	thumbURL="thumbs/m-rama009-2.jpg"
+	linkURL="images/m-rama009-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama giving talk to students in Muir Woods]]></caption>
+  </image>
+  <image imageURL="images/m-rama012-2.jpg"
+	thumbURL="thumbs/m-rama012-2.jpg"
+	linkURL="images/m-rama012-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Time to leave Muir Woods]]></caption>
+  </image>
+  <image imageURL="images/m-rama011-2.jpg"
+	thumbURL="thumbs/m-rama011-2.jpg"
+	linkURL="images/m-rama011-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Saying good bye]]></caption>
+  </image>
+</simpleviewergallery>

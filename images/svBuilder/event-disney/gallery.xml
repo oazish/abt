@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="840"
+	maxImageHeight="587"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="CCCCCC"
+	textColor="FFFFFF"
+	thumbColumns="3"
+	thumbRows="1"
+	title="Rama Events-Disneyland,  Anaheim, CA - 1982"
+	thumbPosition="BOTTOM"
+	frameWidth="1"
+	frameColor="000000"
+	indexPageName="index-disneyland-event.html"
+
+>
+  <image imageURL="images/d-rama006-2.jpg"
+	thumbURL="thumbs/d-rama006-2.jpg"
+	linkURL="images/d-rama006-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama on roller coaster at Disneyland]]></caption>
+  </image>
+  <image imageURL="images/d-rama005-2.jpg"
+	thumbURL="thumbs/d-rama005-2.jpg"
+	linkURL="images/d-rama005-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama with students]]></caption>
+  </image>
+  <image imageURL="images/d-rama007.jpg"
+	thumbURL="thumbs/d-rama007.jpg"
+	linkURL="images/d-rama007.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rama emjoying the merry-go-round]]></caption>
+  </image>
+</simpleviewergallery>

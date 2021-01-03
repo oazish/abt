@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="840"
+	maxImageHeight="587"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="CCCCCC"
+	textColor="FFFFFF"
+	thumbColumns="9"
+	thumbRows="1"
+	title="Professional Photos of the '80s"
+	thumbPosition="BOTTOM"
+	frameWidth="1"
+	frameColor="000000"
+	indexPageName="index-pro-photos-80s.html"
+
+>
+  <image imageURL="images/1pro-rama002-82.JPG"
+	thumbURL="thumbs/1pro-rama002-82.JPG"
+	linkURL="images/1pro-rama002-82.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2pro-rama01.jpg"
+	thumbURL="thumbs/2pro-rama01.jpg"
+	linkURL="images/2pro-rama01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3pro-rama03-83.jpg"
+	thumbURL="thumbs/3pro-rama03-83.jpg"
+	linkURL="images/3pro-rama03-83.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[1983]]></caption>
+  </image>
+  <image imageURL="images/4pro-rama007-84.jpg"
+	thumbURL="thumbs/4pro-rama007-84.jpg"
+	linkURL="images/4pro-rama007-84.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[1984]]></caption>
+  </image>
+  <image imageURL="images/5pro-ramaposter008-84.jpg"
+	thumbURL="thumbs/5pro-ramaposter008-84.jpg"
+	linkURL="images/5pro-ramaposter008-84.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[1984]]></caption>
+  </image>
+  <image imageURL="images/6pro-ramaposter-009-84.jpg"
+	thumbURL="thumbs/6pro-ramaposter-009-84.jpg"
+	linkURL="images/6pro-ramaposter-009-84.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[1984]]></caption>
+  </image>
+  <image imageURL="images/rama-zen-86.jpg"
+	thumbURL="thumbs/rama-zen-86.jpg"
+	linkURL="images/rama-zen-86.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[1986]]></caption>
+  </image>
+  <image imageURL="images/7pro-ramaflyer010-87.jpg"
+	thumbURL="thumbs/7pro-ramaflyer010-87.jpg"
+	linkURL="images/7pro-ramaflyer010-87.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[1987]]></caption>
+  </image>
+</simpleviewergallery>
